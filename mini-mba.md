@@ -1,120 +1,290 @@
-```markdown
-# Micro MBA Syllabus: Subject Guide & Study Resources
+# MICRO MBA PROGRAM
+## 12 Core Modules - Study Guide with Resources
 
-This document provides a detailed description of each module in the Micro MBA program syllabus, along with curated web links to help you begin your studies.
+Complete syllabus with descriptions and learning resources for each module
 
----
-
-## MODULE 1: Understanding Financial Statements
-
-**Subject Description:** This module introduces the foundational documents of corporate finance. You will learn to read and interpret the three core financial statements: the **Income Statement** (showing profitability over time), the **Balance Sheet** (a snapshot of assets, liabilities, and equity), and the **Cash Flow Statement** (tracking cash in and out of the business). The goal is to move beyond just looking at numbers to understanding what they reveal about a company's performance and health.
-
-**Study Resources:**
-- **Understanding Financial Statements (IBM)** – A free introductory course on FutureLearn exploring income statements, financial position, and cash flow statements. [https://www.futurelearn.com/courses/understanding-financial-statements-oc-ibm](https://www.futurelearn.com/courses/understanding-financial-statements-oc-ibm)
-- **Understanding Financial Statements (University of Illinois)** – A MOOC on Coursera that provides a basic understanding of financial statements with an emphasis on the income statement. [https://giesonline.illinois.edu/courses/understanding-financial-statements-company-performance](https://giesonline.illinois.edu/courses/understanding-financial-statements-company-performance)
+**Generated:** August 14, 2026
 
 ---
 
-## MODULE 2: Financial Ratio Analysis
+## TABLE OF CONTENTS
 
-**Subject Description:** While raw financial statements show the numbers, ratio analysis makes them meaningful. This module teaches you how to calculate and interpret key ratios to judge a company's **liquidity** (ability to pay short-term debts), **profitability** (efficiency in generating profit), and **leverage** (use of borrowed money). These metrics are essential for comparing companies of different sizes and assessing financial health.
-
-**Study Resources:**
-- **Financial Ratio Analysis Lesson & Worksheet** – A practical lesson plan from Money Instructor covering liquidity, profitability, and leverage ratios with a worksheet for practice. [https://moneyinstructor.com/teaching/accounting/financial-ratio-analysis/](https://moneyinstructor.com/teaching/accounting/financial-ratio-analysis/)
-- **Summary: Ratio Analysis** – A comprehensive reference document categorizing liquidity, solvency, profitability, activity, and coverage ratios with definitions and formulas. [https://d.edurev.in/t/467963/b-com-summary-ratio-analysis](https://d.edurev.in/t/467963/b-com-summary-ratio-analysis)
-
----
-
-## MODULE 3: Corporate Finance
-
-**Subject Description:** This module covers the financial decisions companies make to maximize shareholder value. You will explore how firms raise capital (through debt or equity), manage financial risks, and make strategic decisions about investments, dividends, and capital structure. The principles learned here apply to areas like investment banking, private equity, and corporate financial strategy.
-
-**Study Resources:**
-- **Corporate Finance Graduate Certificate (Harvard Extension School)** – A program overview covering financial analysis, valuation methods, capital structure, and risk assessment. [https://extension.harvard.edu/academics/programs/corporate-finance-certificate/](https://extension.harvard.edu/academics/programs/corporate-finance-certificate/)
-- **EDHEC Online MSc in Corporate Finance** – A program page that explains key corporate finance concepts, including capital budgeting, capital structure, and financial planning. [https://online.edhec.edu/en/online-programmes/online-master-finance/](https://online.edhec.edu/en/online-programmes/online-master-finance/)
+1. [Understanding Financial Statements](#1-understanding-financial-statements)
+2. [Financial Ratio Analysis](#2-financial-ratio-analysis)
+3. [Corporate Finance](#3-corporate-finance)
+4. [Time Value of Money](#4-time-value-of-money)
+5. [Capital Budgeting (NPV, IRR, Payback)](#5-capital-budgeting-npv-irr-payback)
+6. [Cost of Capital & WACC](#6-cost-of-capital--wacc)
+7. [Marketing](#7-marketing)
+8. [Growth Hacking](#8-growth-hacking)
+9. [Business Analytics](#9-business-analytics)
+10. [Strategic Decision Making](#10-strategic-decision-making)
+11. [Leadership & Management](#11-leadership--management)
+12. [Entrepreneurship](#12-entrepreneurship)
 
 ---
 
-## MODULE 4: Time Value of Money
+## 1. Understanding Financial Statements
 
-**Subject Description:** A core principle of finance: **a dollar today is worth more than a dollar tomorrow**. This module explains why, covering concepts like opportunity cost, inflation, and uncertainty. You will learn to calculate the **Future Value (FV)** and **Present Value (PV)** of money, which is the foundation for evaluating investments and comparing cash flows that occur at different times.
+### Description
+Learn to read and interpret the three primary financial statements: income statement, balance sheet, and cash flow statement. Understand how companies report their financial performance and position.
 
-**Study Resources:**
-- **Time Value of Money: A Primer (Harvard Business School)** – An excellent blog post explaining TVM, its importance, and how to calculate present and future value with real-world examples. [https://online.hbs.edu/blog/post/time-value-of-money](https://online.hbs.edu/blog/post/time-value-of-money)
+### Recommended Learning Resources
 
----
+- **Khan Academy - Finance & Capital Markets**
+  https://www.khanacademy.org/economics-finance-domain/finance-and-capital-markets
 
-## MODULE 5: Capital Budgeting (NPV, IRR, Payback)
+- **Coursera - Introduction to Finance**
+  https://www.coursera.org/courses?search=financial%20statements
 
-**Subject Description:** Capital budgeting is the process of evaluating long-term investments, such as new equipment, facilities, or projects. This module introduces the key tools used to decide which investments are worthwhile:
-- **Net Present Value (NPV)**: Calculates the total value a project will add, accounting for the time value of money.
-- **Internal Rate of Return (IRR)**: The expected annual rate of growth an investment will generate.
-- **Payback Period**: How long it takes for an investment to recover its initial cost.
+- **YouTube - Financial Statements Explained**
+  https://www.youtube.com/results?search_query=financial+statements+explained
 
-**Study Resources:**
-- **Capital Budgeting (Taylor & Francis)** – An academic book chapter explaining NPV, IRR, modified IRR, payback, and other models for evaluating long-term capital investments. [https://www.taylorfrancis.com/chapters/mono/10.4324/9781003545903-5/capital-budgeting-rob-van-ginneken](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003545903-5/capital-budgeting-rob-van-ginneken)
-
----
-
-## MODULE 6: Cost of Capital & WACC
-
-**Subject Description:** The **Weighted Average Cost of Capital (WACC)** is the average rate a company expects to pay to finance its assets, weighing the cost of equity and the cost of debt. This module teaches you how to calculate WACC and why it's critical: it serves as the discount rate in NPV calculations and represents the minimum return a company must earn on its investments to satisfy its investors.
-
-**Study Resources:**
-- **Weighted Average Cost of Capital Formula (Motley Fool)** – A step-by-step guide explaining how to calculate WACC, including the cost of equity (via dividend capitalization model or CAPM) and the cost of debt. [https://www.fool.com/terms/w/weighted-average-cost-of-capital/](https://www.fool.com/terms/w/weighted-average-cost-of-capital/)
+- **Investopedia - Financial Statements Guide**
+  https://www.investopedia.com/terms/f/financial-statements.asp
 
 ---
 
-## MODULE 7: Marketing
+## 2. Financial Ratio Analysis
 
-**Subject Description:** This module covers the fundamentals of marketing: understanding your target audience, crafting a compelling message, and delivering it through the right channels. You will learn about core concepts like defining a Unique Value Proposition (UVP), developing buyer personas, and selecting the right marketing channels to reach potential customers effectively.
+### Description
+Master the key financial ratios (liquidity, profitability, efficiency, leverage) used to evaluate company performance. Learn to compare companies and identify financial health.
 
-**Study Resources:**
-- **Organic Growth: Marketing & Hacking Guide for 2026** – A comprehensive guide covering the foundations of marketing, including defining your target audience, creating a UVP, and selecting appropriate marketing channels. [https://organicgrowthstudio.com/organic-growth-marketing-hacking-guide-for-2026/](https://organicgrowthstudio.com/organic-growth-marketing-hacking-guide-for-2026/)
+### Recommended Learning Resources
 
----
+- **Khan Academy - Financial Ratios**
+  https://www.khanacademy.org/economics-finance-domain/finance-and-capital-markets/stock-market-basics
 
-## MODULE 8: Growth Hacking
+- **Investopedia - Financial Ratios**
+  https://www.investopedia.com/financial-edge/0910/6-must-know-financial-ratios.aspx
 
-**Subject Description:** Growth hacking is a data-driven, experiment-heavy approach to marketing focused on rapid growth. Unlike traditional marketing, it emphasizes testing and iteration across the entire customer journey. You'll learn about the **AARRR framework** (Acquisition, Activation, Retention, Referral, Revenue), also known as "Pirate Metrics," and how to optimize each stage to drive sustainable growth.
+- **edX - Corporate Finance**
+  https://www.edx.org/search?q=financial+ratios
 
-**Study Resources:**
-- **Organic Growth: Marketing & Hacking Guide for 2026** – This guide explains the data-driven approach of growth hacking, including the AARRR funnel and strategies for rapid experimentation and iteration. [https://organicgrowthstudio.com/organic-growth-marketing-hacking-guide-for-2026/](https://organicgrowthstudio.com/organic-growth-marketing-hacking-guide-for-2026/)
-
----
-
-## MODULE 9: Business Analytics
-
-**Subject Description:** Business analytics is the practice of using data, statistical analysis, and predictive models to inform business decisions. This module will teach you how to interpret data visualizations, understand sampling and uncertainty, evaluate predictive models, and design A/B tests, enabling you to make evidence-based decisions rather than relying on intuition.
-
-**Study Resources:**
-- **Business Analytics (Harvard Business School Online)** – A course syllabus covering describing and summarizing data, decision-making under uncertainty, prediction for business insight, and experimentation with AI in practice. [https://online.hbs.edu/courses/business-analytics](https://online.hbs.edu/courses/business-analytics)
+- **YouTube - Financial Ratio Analysis**
+  https://www.youtube.com/results?search_query=financial+ratio+analysis
 
 ---
 
-## MODULE 10: Strategic Decision Making
+## 3. Corporate Finance
 
-**Subject Description:** This module explores how leaders make high-stakes decisions in complex, uncertain environments. It examines the relationship between leadership and strategy, focusing on how organizations adapt, learn, and position themselves for long-term success. Topics may include collective sensemaking, managing trade-offs, and designing decision-making processes that balance exploration and exploitation.
+### Description
+Explore how corporations make financial decisions including capital structure, dividends, and financing options. Understand the theory behind maximizing shareholder value.
 
-**Study Resources:**
-- **Integrative leadership in complex adaptive systems (ScienceDirect)** – An academic study examining the relationship between integrative leadership and strategic outcomes, identifying mechanisms for leadership-strategy co-evolution and adaptive capacity. [https://www.sciencedirect.com/org/science/article/abs/pii/S1087857225000267](https://www.sciencedirect.com/org/science/article/abs/pii/S1087857225000267)
+### Recommended Learning Resources
+
+- **Coursera - Corporate Finance Specialization**
+  https://www.coursera.org/specializations/corporate-finance
+
+- **MIT OpenCourseWare - Corporate Finance**
+  https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/
+
+- **Khan Academy - Corporate Finance Basics**
+  https://www.khanacademy.org/economics-finance-domain/finance-and-capital-markets
+
+- **Investopedia - Corporate Finance**
+  https://www.investopedia.com/terms/c/corporatefinance].asp
 
 ---
 
-## MODULE 11: Leadership & Management
+## 4. Time Value of Money
 
-**Subject Description:** This module focuses on the human side of business: how to lead teams, manage people, and build organizational culture. It covers leadership styles, talent management, and the practical skills needed to motivate and direct employees toward achieving strategic goals. Effective leadership and management are critical for executing strategy and building a successful organization.
+### Description
+Understand the fundamental principle that money today is worth more than money in the future. Learn Present Value, Future Value, annuities, and discount rates.
 
-**Study Resources:**
-- **Business Fundamentals for Entrepreneurs (NPTEL)** – A free course covering leadership and human resources as part of a comprehensive business curriculum. [https://onlinecourses.nptel.ac.in/noc25_mg13/preview](https://onlinecourses.nptel.ac.in/noc25_mg13/preview)
+### Recommended Learning Resources
+
+- **Khan Academy - Time Value of Money**
+  https://www.khanacademy.org/economics-finance-domain/finance-and-capital-markets/present-value
+
+- **YouTube - Time Value of Money Explained**
+  https://www.youtube.com/results?search_query=time+value+of+money
+
+- **Investopedia - Time Value of Money**
+  https://www.investopedia.com/terms/t/timevalueofmoney.asp
+
+- **Coursera - Finance Courses**
+  https://www.coursera.org/search?query=time%20value%20of%20money
 
 ---
 
-## MODULE 12: Entrepreneurship
+## 5. Capital Budgeting (NPV, IRR, Payback)
 
-**Subject Description:** This module demystifies the process of creating value through innovation, whether by starting a new venture or driving change within an existing organization. You will learn how to identify entrepreneurial opportunities, test ideas, and execute them effectively. The module covers everything from developing an entrepreneurial mindset to building teams, engaging investors, and managing venture implementation.
+### Description
+Learn methods to evaluate investment projects and make capital allocation decisions. Master Net Present Value (NPV), Internal Rate of Return (IRR), and Payback Period analysis.
 
-**Study Resources:**
-- **Wharton Online Entrepreneurship Certificate** – A program designed to help professionals turn ideas into action, covering entrepreneurial mindset, opportunity identification, and venture implementation. [https://news.wharton.upenn.edu/press-releases/2026/01/wharton-online-launches-entrepreneurship-certificate/](https://news.wharton.upenn.edu/press-releases/2026/01/wharton-online-launches-entrepreneurship-certificate/)
-- **Business Fundamentals for Entrepreneurs (NPTEL)** – A free course with modules on starting new ventures, entrepreneurial finance, innovation, and business models. [https://onlinecourses.nptel.ac.in/noc25_mg13/preview](https://onlinecourses.nptel.ac.in/noc25_mg13/preview)
-```
+### Recommended Learning Resources
+
+- **Khan Academy - Capital Budgeting**
+  https://www.khanacademy.org/economics-finance-domain/finance-and-capital-markets
+
+- **YouTube - Capital Budgeting Methods**
+  https://www.youtube.com/results?search_query=capital+budgeting+NPV+IRR
+
+- **Investopedia - Net Present Value**
+  https://www.investopedia.com/terms/n/npv.asp
+
+- **Udemy - Capital Budgeting Courses**
+  https://www.udemy.com/courses/search/?q=capital%20budgeting
+
+---
+
+## 6. Cost of Capital & WACC
+
+### Description
+Understand how to calculate the cost of equity and debt, and the Weighted Average Cost of Capital (WACC). Learn how companies determine their discount rate for valuation.
+
+### Recommended Learning Resources
+
+- **Khan Academy - Cost of Capital**
+  https://www.khanacademy.org/economics-finance-domain/finance-and-capital-markets
+
+- **YouTube - WACC Explained**
+  https://www.youtube.com/results?search_query=weighted+average+cost+of+capital+WACC
+
+- **Investopedia - WACC**
+  https://www.investopedia.com/terms/w/wacc.asp
+
+- **Coursera - Finance Fundamentals**
+  https://www.coursera.org/search?query=cost%20of%20capital
+
+---
+
+## 7. Marketing
+
+### Description
+Learn core marketing principles including customer segmentation, positioning, product development, pricing strategies, and promotional tactics. Understand the 4Ps of marketing.
+
+### Recommended Learning Resources
+
+- **Coursera - Marketing Specialization**
+  https://www.coursera.org/specializations/digital-marketing-strategy
+
+- **HubSpot Academy - Free Marketing Courses**
+  https://academy.hubspot.com/
+
+- **Google Digital Garage - Marketing Fundamentals**
+  https://learndigital.withgoogle.com/
+
+- **YouTube - Marketing Basics**
+  https://www.youtube.com/results?search_query=marketing+fundamentals
+
+---
+
+## 8. Growth Hacking
+
+### Description
+Discover strategies to achieve rapid business growth through creative, low-cost marketing tactics. Learn viral loops, A/B testing, user acquisition, and retention strategies.
+
+### Recommended Learning Resources
+
+- **Reforge - Growth Strategy Courses**
+  https://www.reforge.com/growth-strategy
+
+- **Coursera - Growth Hacking Courses**
+  https://www.coursera.org/search?query=growth%20hacking
+
+- **YouTube - Growth Hacking Strategies**
+  https://www.youtube.com/results?search_query=growth+hacking+strategies
+
+- **LinkedIn Learning - Growth Marketing**
+  https://www.linkedin.com/learning/search?keywords=growth%20marketing
+
+---
+
+## 9. Business Analytics
+
+### Description
+Learn to use data and analytics to drive business decisions. Cover data visualization, statistical analysis, dashboards, and key performance indicators (KPIs).
+
+### Recommended Learning Resources
+
+- **Google Analytics Academy**
+  https://analytics.google.com/analytics/academy/
+
+- **Coursera - Data Analytics Specialization**
+  https://www.coursera.org/specializations/google-data-analytics
+
+- **Tableau Public Learning**
+  https://www.tableau.com/en-us/learn
+
+- **YouTube - Business Analytics**
+  https://www.youtube.com/results?search_query=business+analytics+fundamentals
+
+---
+
+## 10. Strategic Decision Making
+
+### Description
+Develop frameworks for making strategic business decisions. Learn SWOT analysis, competitive strategy, scenario planning, and Porter's Five Forces analysis.
+
+### Recommended Learning Resources
+
+- **Coursera - Strategy and Competitive Advantage**
+  https://www.coursera.org/search?query=strategic%20management
+
+- **YouTube - Business Strategy Frameworks**
+  https://www.youtube.com/results?search_query=business+strategy+frameworks
+
+- **LinkedIn Learning - Strategic Thinking**
+  https://www.linkedin.com/learning/search?keywords=strategic%20thinking
+
+- **Udemy - Strategic Management**
+  https://www.udemy.com/courses/search/?q=strategic%20management
+
+---
+
+## 11. Leadership & Management
+
+### Description
+Master essential leadership skills including team management, motivation, communication, decision-making, and organizational behavior. Develop your leadership style.
+
+### Recommended Learning Resources
+
+- **Coursera - Leadership and Management Specialization**
+  https://www.coursera.org/specializations/leadership-and-management
+
+- **LinkedIn Learning - Leadership Skills**
+  https://www.linkedin.com/learning/search?keywords=leadership%20development
+
+- **YouTube - Leadership Training**
+  https://www.youtube.com/results?search_query=leadership+training
+
+- **Udemy - Management Courses**
+  https://www.udemy.com/courses/search/?q=leadership%20management
+
+---
+
+## 12. Entrepreneurship
+
+### Description
+Learn to launch and scale a startup. Cover business planning, funding, market validation, product-market fit, and the entrepreneurial mindset.
+
+### Recommended Learning Resources
+
+- **Coursera - Entrepreneurship Specialization**
+  https://www.coursera.org/specializations/entrepreneurship
+
+- **edX - Entrepreneurship Courses**
+  https://www.edx.org/search?q=entrepreneurship
+
+- **Y Combinator - Startup School**
+  https://www.startupschool.org/
+
+- **YouTube - Startup & Entrepreneurship**
+  https://www.youtube.com/results?search_query=entrepreneurship+startup
+
+---
+
+## Study Tips
+
+- **Start with your interests:** Choose modules that align with your career goals
+- **Use multiple resources:** Combine video tutorials, articles, and hands-on practice
+- **Apply what you learn:** Try implementing concepts in real-world scenarios
+- **Take notes:** Document key concepts and insights as you study
+- **Join communities:** Connect with other learners in online forums and study groups
+- **Track progress:** Monitor which modules you've completed and review regularly
+
+---
+
+**Last Updated:** August 14, 2026

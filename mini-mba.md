@@ -32,7 +32,7 @@ Learn to read and interpret the three primary financial statements: income state
 ### Recommended Learning Resources
 
 - **Khan Academy - Finance & Capital Markets**
-  https://www.khanacademy.org/economics-finance-domain/finance-and-capital-markets
+  https://www.khanacademy.org/economics-finance-domain/core-finance
 
 - **Coursera - Introduction to Finance**
   https://www.coursera.org/courses?search=financial%20statements
